@@ -1,0 +1,1 @@
+ALTER TABLE asteroids_daily ADD COLUMN hazardous int(1) NOT NULL;

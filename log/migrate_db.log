@@ -1,0 +1,6 @@
+2021-11-20 10:50:30,717 - INFO - migrate_db : Asteroid DB migration service
+2021-11-20 10:50:30,717 - INFO - migrate_db : Loading configuration from file
+2021-11-20 10:50:30,718 - INFO - migrate_db : DONE
+2021-11-20 10:53:33,087 - INFO - migrate_db : Asteroid DB migration service
+2021-11-20 10:53:33,093 - INFO - migrate_db : Loading configuration from file
+2021-11-20 10:53:33,096 - INFO - migrate_db : DONE

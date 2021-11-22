@@ -1,0 +1,1 @@
+ALTER TABLE asteroids_daily ADD COLUMN create_date VARCHAR(25) NOT NULL;
